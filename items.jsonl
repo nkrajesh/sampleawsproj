@@ -1,0 +1,10 @@
+{"Item": {"email": {"S": "avery.jaskolski@gmail.com"}, "lastName": {"S": "Collins"}, "state": {"S": "MS"}, "zip": {"S": "38603"}, "city": {"S": "Clairmouth"}, "income": {"N": "170741"}}}
+{"Item": {"email": {"S": "bryant.walker@yahoo.com"}, "lastName": {"S": "Hackett"}, "state": {"S": "CA"}, "zip": {"S": "90090"}, "city": {"S": "Weissnattown"}, "income": {"N": "88168"}}}
+{"Item": {"email": {"S": "winston.mclaughlin@gmail.com"}, "lastName": {"S": "Moore"}, "state": {"S": "CA"}, "zip": {"S": "90036"}, "city": {"S": "Lake Maryannashire"}, "income": {"N": "161824"}}}
+{"Item": {"email": {"S": "elbert.larson@hotmail.com"}, "lastName": {"S": "Aufderhar"}, "state": {"S": "MS"}, "zip": {"S": "39727"}, "city": {"S": "South Cyrilmouth"}, "income": {"N": "196823"}}}
+{"Item": {"email": {"S": "alvina.ward@yahoo.com"}, "lastName": {"S": "Abernathy"}, "state": {"S": "TN"}, "zip": {"S": "38574"}, "city": {"S": "Lake Carymouth"}, "income": {"N": "94361"}}}
+{"Item": {"email": {"S": "tom.kiehn@hotmail.com"}, "lastName": {"S": "Runolfsson"}, "state": {"S": "TN"}, "zip": {"S": "37032"}, "city": {"S": "New Miles"}, "income": {"N": "175056"}}}
+{"Item": {"email": {"S": "carolee.wehner@hotmail.com"}, "lastName": {"S": "Pacocha"}, "state": {"S": "CA"}, "zip": {"S": "90049"}, "city": {"S": "West Tanner"}, "income": {"N": "238243"}}}
+{"Item": {"email": {"S": "daphne.hammes@yahoo.com"}, "lastName": {"S": "Emard"}, "state": {"S": "GA"}, "zip": {"S": "30035"}, "city": {"S": "Wilkinsonport"}, "income": {"N": "92018"}}}
+{"Item": {"email": {"S": "maxwell.farrell@yahoo.com"}, "lastName": {"S": "Carroll"}, "state": {"S": "MS"}, "zip": {"S": "39783"}, "city": {"S": "Shanelville"}, "income": {"N": "209651"}}}
+{"Item": {"email": {"S": "zane.koch@gmail.com"}, "lastName": {"S": "Beier"}, "state": {"S": "GA"}, "zip": {"S": "30300"}, "city": {"S": "South Leonora"}, "income": {"N": "155512"}}}
